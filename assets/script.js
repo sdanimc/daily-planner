@@ -21,3 +21,7 @@ $(function () {
   //
   // TODO: Add code to display the current date in the header of the page.
 });
+
+//function for get time and date-> display day attribute to p #currentDay .lead; use time in if statement and for loop to color code blocks
+//enter 
+//save to local storage
